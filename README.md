@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭
+Hello, coders! I'm Mukul, a passionate B.Tech CSE student <br>🔭 I’m currently working on learning Backend<br>
 
 
 ## 🌐 Socials:
