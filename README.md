@@ -1,23 +1,8 @@
-# <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="60"> Hello, Coders!
+# <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="60"> Welcome
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&color=58A6FF&size=32&center=true&vCenter=true&width=750&lines=Welcome+to+Mukul's+terminal;B.Tech+CSE+Student;Developer+%7C+Coder;Always+learning+new+tech...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&color=3DDC84&size=32&center=true&vCenter=true&width=750&lines=Passionate+Developer;Problem+Solver;Code+Craftsman;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
-<a href="https://github.com/Mukull-s/"><img src="https://github.com/Mukull-s/Mukull-s/blob/main/profile-3d-contrib/profile-green-animate.svg" alt="Mukul's Contribution Calendar" width="100%"></a>
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About_Me.sh
-
-```bash
-#!/bin/bash
-
-whoami() {
-  echo "Hello, coders! I'm Mukul, a passionate B.Tech CSE student"
-  echo "Currently exploring various programming languages and technologies"
-  echo "Constantly learning and building new skills in software development"
-  echo "Open to collaborating on interesting coding projects and challenges"
-}
-
-whoami
-```
+<img src="https://raw.githubusercontent.com/Mukull-s/Mukull-s/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
 
 ## <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="25"> Tech_Arsenal.py
 
@@ -25,7 +10,8 @@ whoami
 class Skills:
     languages = ["C++", "JavaScript", "Java", "HTML5", "CSS3", "Python"]
     databases = ["MySQL"]
-    currently_learning = ["Full Stack Development", "Data Structures & Algorithms"]
+    tools = ["Git", "VS Code", "GitHub"]
+    interests = ["Web Development", "Data Structures", "Algorithms", "Open Source"]
 ```
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connection_Ports.md
@@ -39,12 +25,16 @@ class Skills:
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> GitHub_Stats.exe
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mukull-s&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukull-s&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mukull-s&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukull-s&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukull-s&theme=dark&hide_border=true" alt="GitHub Streak" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukull-s&theme=github-dark&hide_border=true" alt="GitHub Streak" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukull-s&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%">
 </div>
 
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"> Skills_Array.js
@@ -78,8 +68,8 @@ class Skills:
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"> Terminal_Footer.sh
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in/api?id=Mukull-s&icon=9&color=0">
-    <img src="https://visitcount.itsvg.in/api?id=Mukull-s&icon=9&color=0" alt="Visitor Count"/>
+  <a href="https://komarev.com/ghpvc/?username=Mukull-s&color=blueviolet&style=flat-square&label=Profile+Views">
+    <img src="https://komarev.com/ghpvc/?username=Mukull-s&color=blueviolet&style=flat-square&label=Profile+Views" alt="Visitor Count"/>
   </a>
   
   ```bash
