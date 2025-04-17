@@ -1,8 +1,8 @@
 # <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="60"> Hello, Coders!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&color=00FF00&size=32&center=true&vCenter=true&width=750&lines=Welcome+to+Mukul's+terminal;B.Tech+CSE+Student;Developer+%7C+Coder;Always+learning+new+tech...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&color=58A6FF&size=32&center=true&vCenter=true&width=750&lines=Welcome+to+Mukul's+terminal;B.Tech+CSE+Student;Developer+%7C+Coder;Always+learning+new+tech...)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+<a href="https://github.com/Mukull-s/"><img src="https://github.com/Mukull-s/Mukull-s/blob/main/profile-3d-contrib/profile-green-animate.svg" alt="Mukul's Contribution Calendar" width="100%"></a>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About_Me.sh
 
@@ -38,28 +38,14 @@ class Skills:
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> GitHub_Stats.exe
 
-<details>
-  <summary><b>Click to execute GitHub_Stats.exe</b></summary>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mukull-s&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" height="170"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukull-s&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Most Used Languages" height="170"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukull-s&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" width="100%"/>
-  </div>
-</details>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mukull-s&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukull-s&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" height="170"/>
+</div>
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Coding_Matrix.json
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mukull-s&theme=matrix&column=7&no-frame=true" width="100%" alt="Trophy Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mukull-s&theme=github_dark" width="100%" alt="Activity Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukull-s&theme=chartreuse-dark" width="100%"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukull-s&theme=dark&hide_border=true" alt="GitHub Streak" width="100%"/>
+</div>
 
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"> Skills_Array.js
 
