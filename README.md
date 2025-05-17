@@ -1,5 +1,5 @@
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGU3dXQ2OGI2YTBuZWV6YXduMjlrb3B5cndsdmhpaDZ0Y3MwanVldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100"> Hello World!
-Show Image
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 </div>
@@ -58,7 +58,7 @@ Show Image
 </div>
 <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"> Top Contributions
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Mukull-s&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" width="100%">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Mukull-s&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" width="70%">
 </div>
 <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="25"> Random Dev Quote
 <div align="center">
