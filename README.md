@@ -1,8 +1,6 @@
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGU3dXQ2OGI2YTBuZWV6YXduMjlrb3B5cndsdmhpaDZ0Y3MwanVldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100"> Hello World!
-Show Image
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
-</div>
+<img src="https://www.notion.com/_next/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fpublic.notion-static.com%2F6fc7e2d9-f62c-45cc-8c0a-0fdf3a3cc0bc%2F189b8696-b89f-44af-af05-a9e727f31769.jpeg&w=3840&q=75">
+<p>Hey, I’m a 2nd-year Computer Science undergrad at VIT who loves turning concepts into interactive web experiences.</p>
+
 <img src="https://media.giphy.com/media/uhQuegHVGC1UoAT289/giphy.gif" width="30"> Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -28,6 +26,7 @@ Show Image
 </p>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me
 <p align="left">
+
   <a href="https://github.com/Mukull-s">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -37,6 +36,11 @@ Show Image
   <a href="mailto:work.mukulsinghal@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25"> Isometric Contribution Calendar
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mukull-s/Mukull-s/main/profile-3d-contrib/profile-night-green.svg" width="100%">
+
 </p>
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> GitHub Stats
 <div align="center">
@@ -52,13 +56,10 @@ Show Image
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukull-s&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%">
   </a>
 </div>
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25"> Isometric Contribution Calendar
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Mukull-s/Mukull-s/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
 </div>
 <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"> Top Contributions
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Mukull-s&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" width="100%">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Mukull-s&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" width="70%">
 </div>
 <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="25"> Random Dev Quote
 <div align="center">
@@ -69,5 +70,6 @@ Show Image
   <a href="https://komarev.com/ghpvc/?username=Mukull-s&color=blueviolet&style=flat-square&label=Profile+Views">
     <img src="https://komarev.com/ghpvc/?username=Mukull-s&color=blueviolet&style=flat-square&label=Profile+Views" alt="Visitor Count"/>
   </a>
-bashconsole.log("Thanks for visiting my profile! Let's connect and build something amazing together.");
+
+Thanks for visiting my profile! Let's connect and build something amazing together.
 </div>
