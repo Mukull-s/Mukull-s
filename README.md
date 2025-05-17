@@ -1,11 +1,7 @@
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGU3dXQ2OGI2YTBuZWV6YXduMjlrb3B5cndsdmhpaDZ0Y3MwanVldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100">
-<div align="center">
-  <img src="https://github.com/parazeeknova/README.md/raw/main/parazeek.png" width="100%">
-  <p>Hey, I'm a 2nd-year Computer Science undergrad at VIT who loves turning concepts into interactive web experiences.</p>
-</div>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGU3dXQ2OGI2YTBuZWV6YXduMjlrb3B5cndsdmhpaDZ0Y3MwanVldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100"> Hello World!
 Show Image
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mukull-s/Mukull-s/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 </div>
 <img src="https://media.giphy.com/media/uhQuegHVGC1UoAT289/giphy.gif" width="30"> Tech Stack
 <p align="center">
@@ -42,10 +38,6 @@ Show Image
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> Contribution Graph
-<div align="center">
-  <img src="https://i.imgur.com/4fxPKzj.png" alt="Isometric Contribution Calendar" width="70%">
-</div>
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mukull-s&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats"/>
@@ -60,20 +52,13 @@ Show Image
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukull-s&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%">
   </a>
 </div>
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25"> Commits Stats
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25"> Isometric Contribution Calendar
 <div align="center">
-  <p>
-    <img src="https://i.imgur.com/4fxPKzj.png" alt="Isometric Contribution Calendar" width="80%">
-  </p>
-  <p>
-    ✨ Best streak: 14 days<br>
-    🔝 Highest in a day: 57<br>
-    📊 Average per day: ~5.48
-  </p>
+  <img src="https://raw.githubusercontent.com/Mukull-s/Mukull-s/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
 </div>
 <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"> Top Contributions
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Mukull-s&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" width="80%">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Mukull-s&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" width="100%">
 </div>
 <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="25"> Random Dev Quote
 <div align="center">
